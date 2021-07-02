@@ -16,11 +16,11 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- WOrking out
+- Working Out
 
 - Nature
 
-- Gaminng <https://www.arena.net/en>
+- Gaming <https://www.arena.net/en>
 
 ***
 
