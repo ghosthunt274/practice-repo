@@ -4,9 +4,9 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- TA Intro to DS
 
-- Course 2
+- Summer Fun 101
 
 - Course 3
 
@@ -16,12 +16,12 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+- WOrking out
 
-- Thing 2
+- Nature
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Gaminng <https://www.arena.net/en>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/07/01
